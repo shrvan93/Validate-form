@@ -1,0 +1,27 @@
+body{
+    background: #6ca2b3;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.btn-00,
+.btn-01
+{
+    font-size: 25px;
+    color: rgba(211, 24, 24, 0.959);
+    background-color: rgba(133, 48, 100, 0.637);
+    
+}
+
+.btn-01:hover{
+    background-color: aqua;
+    color: black;
+}
+.btn-00:hover{
+    background-color: aqua;
+    color: black;
+}
+
+.form{
+    font-weight: bold;
+    text-align: center;
+}
